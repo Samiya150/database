@@ -1,0 +1,2 @@
+# database
+using phpmyadmin
